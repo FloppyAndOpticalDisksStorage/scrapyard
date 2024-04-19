@@ -1,2 +1,8 @@
-# scrapyard
-Repository for everyone with softs, programs, etc stuff in there, that im not need or just
+# What is this?
+
+This is the repository, with trash progs or good softs!
+Feel free to download this stuff!
+
+# Is it have a point?
+
+Idk, but in future maybe this repository will be archives since of my offline time in github
