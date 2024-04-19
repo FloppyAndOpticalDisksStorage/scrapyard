@@ -5,4 +5,4 @@ Feel free to download this stuff!
 
 # Is it have a point?
 
-Idk, but in future maybe this repository will be archives since of my offline time in github
+Idk, but in future maybe this repository will be archived since of my offline time in github
